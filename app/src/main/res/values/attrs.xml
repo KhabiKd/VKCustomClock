@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogClockView">
+        <attr name="digitType" format="enum">
+            <enum name="Arabic" value="0"/>
+            <enum name="Rome" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <attr name="analogClockStyle" format="reference"/>
+</resources>

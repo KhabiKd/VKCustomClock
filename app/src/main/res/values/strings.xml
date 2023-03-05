@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VK Custom Clock</string>
+    <string name="arabic">Arabic</string>
+    <string name="roman">Roman</string>
+</resources>
